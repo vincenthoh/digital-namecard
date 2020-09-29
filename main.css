@@ -8,8 +8,8 @@ body {
 
 section {
 	display: block;
-	padding-left: 0.5rem;
-	padding-right: 5.5rem;
+	padding-left: -5.5rem;
+	padding-right: 0.5rem;
 	height: auto;
 }
 
